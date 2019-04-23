@@ -1,4 +1,4 @@
-# Eye Tracker with OpenCV
+# Eye Tracking and Blink detection with OpenCV
 
 - [x] 얼굴 인식 ([haarcascade_frontalface_default](https://github.com/opencv/opencv/blob/master/data/haarcascades/haarcascade_frontalface_default.xml))
   - [x] use the largest face if multiple faces are found
