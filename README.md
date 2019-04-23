@@ -7,5 +7,5 @@
   - [ ] 각 detection 간 시간을 고려하여 face 간 면적이 심하게 차이나는 경우 이전 데이터를 사용하거나 면적을 조정
 
 - [ ] 눈 인식([haarcascade_eye.xml](https://github.com/opencv/opencv/blob/master/data/haarcascades/haarcascade_eye.xml))
-  - [ ] eye blink detection
-  - [ ] eye tracking
+  - [ ] **eye blink detection**
+  - [ ] **eye tracking**
